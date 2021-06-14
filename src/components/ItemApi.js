@@ -59,4 +59,14 @@ export const Data=[
         price:"10490",
         quantity:1
     },
+     {
+        id:7,
+        imgUrl:'./images/OPPO A31.jpg',
+        model:"OPPO A31 pro",
+        color:"Blue",
+        styleName:"32GB",
+        patternName:"A31",
+        price:"12000",
+        quantity:1
+    },
 ];
